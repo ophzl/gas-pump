@@ -1,0 +1,17 @@
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\bin\Debug\Essence2.exe.config
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\bin\Debug\Essence2.exe
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\bin\Debug\Essence2.pdb
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.Form1.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.FuelChoice.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.Properties.Resources.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.CardCode.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.csproj.GenerateResource.cache
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.exe
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.pdb
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.TicketChoice.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.Checkout.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.Service.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.PleaseWait.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.Thanks.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.PleaseWaitDuplicata.resources
+C:\Users\ophel\OneDrive\Documents\CESI\Formation Analyste Programmeur\C#\Essence2\obj\Debug\Essence2.csprojAssemblyReference.cache
